@@ -17,6 +17,6 @@
 
 ##
 
-##🌌 What is my focus now?
+🌌 What is my focus now?
 
 I'm studying on C++ language to work on games and make usefull aplications for companies. I also started my studies in front end, but I want to become a full stack HTML and JavaScript developer.
