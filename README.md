@@ -1,7 +1,7 @@
 ## Who am i? 🕵️‍♂️
 
 - 🔭 I am currently looking for an entry-level job. 
-- 👨‍🎓 Studying: HTML5, CSS and C++
+- 👨‍🎓 Studying: Computer Science
 - 📫 Linkedin: www.linkedin.com/in/samuel-da-silva-sodré-350364355
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dree13&show_icons=true&theme=midnight-purple)
