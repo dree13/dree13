@@ -2,9 +2,11 @@
 
 - 🔭 I am currently looking for an entry-level job. 
 - 👨‍🎓 Studying: Computer Science
-- 📫 Linkedin: www.linkedin.com/in/samuel-da-silva-sodré-350364355
+- 📫 [Linkedin](www.linkedin.com/in/samuel-da-silva-sodré-350364355)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dree13&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dree13&show_icons=true&theme=midnight-purple&layout=compact)
+
 
 Language and tools that i use:
 <div style="display: inline_block"><br>
@@ -20,4 +22,5 @@ Language and tools that i use:
 
 🌌 What is my focus now?
 
-I'm studying on C++ language to work on games and make usefull aplications for companies. I also started my studies in front end, but I want to become a full stack HTML and JavaScript developer.
+I'm studying on C++ language to work on games and make usefull aplications for companies. I also started my studies in back-end, but i want to become a full stack HTML and JavaScript developer.
+This profile was created with the intention of recording my personal and public projects, with the intention of showing the work i have already done. Public projects will be on the profile home page for quicker and easier access.
