@@ -1,4 +1,4 @@
-## Who am i? 🕵️‍♂️
+## Samuel Sodré
 
 - 🔭 I am currently looking for an entry-level job. 
 - 👨‍🎓 Studying: Computer Science
