@@ -22,4 +22,10 @@
 I'm studying on C++ language to work on games and make usefull aplications for companies. I also started my studies in back-end, but i want to become a full stack HTML and JavaScript developer.
 This profile was created with the intention of recording my personal and public projects, for showing the work i have already done. Public projects will be on the profile home page for quicker and easier access.
 
+
+
+<div align="center">
+  
 ![Image](https://github.com/user-attachments/assets/6920c3bf-52e0-4828-a9f5-3ff52ac88114)
+
+</div>
