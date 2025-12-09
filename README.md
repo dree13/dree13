@@ -19,7 +19,7 @@
 
 #### 🌌 What is my focus now?
 
-I'm studying on C++ language to work on games and make usefull aplications for companies. I also started my studies in back-end, but i want to become a full stack HTML and JavaScript developer.
+I'm studying on C++ language to work on games and make usefull aplications for companies. I also started my studies in back-end, but i want to become a full stack developer.
 This profile was created with the intention of recording my personal and public projects, for showing the work i have already done. Public projects will be on the profile home page for quicker and easier access.
 
 
