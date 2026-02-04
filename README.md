@@ -16,7 +16,7 @@
 
 #### 🌌 What is my focus now?
 
-I'm studying on C++ language to work on games and make usefull aplications for companies. I also started my studies in back-end, but i want to become a full stack developer.
+I'm studying on C#.NET and NODE.JS language to work with back-end on websites, systems and . I also started my studies in software developing, studying C# and C++ to build usefull aplications for companies.
 This profile was created with the intention of recording my personal and public projects, for showing the work i have already done. Public projects will be on the profile home page for quicker and easier access.
 
 
